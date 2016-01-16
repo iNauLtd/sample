@@ -1,16 +1,13 @@
 body {
-  background: black;
+	background: black;
 }
 
-h1 {
-  font-size: 60px;
-  color: white;
-  text-align: center;
-  padding:0px;
-  margin:0px;
+a: hover {
+	color: black;
+	background-color: red;
 }
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+
+a {
+	colour: white;
+	text-align: inline;
 }
